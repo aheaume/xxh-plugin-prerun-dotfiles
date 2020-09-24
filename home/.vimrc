@@ -18,10 +18,6 @@ set title
 " set encoding
 set encoding=utf-8
 
-" directories for swp files
-set backupdir=~/.vim/backup
-set directory=~/.vim/backupf
-
 " display incomplete commands at the bottom
 set showcmd
 
