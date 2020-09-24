@@ -95,7 +95,7 @@ set smartindent
 """""""""
 
 syntax enable
-"set background=dark "uncomment this if your terminal has a dark background
+set background=dark "uncomment this if your terminal has a dark background
 
 """"""""
 " GVim "
